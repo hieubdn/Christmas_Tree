@@ -5,7 +5,7 @@
 
 
  
-### Hướng dẫn Clone source code và test Package
+### Hướng dẫn Clone source code
 1. Clone source code về thông qua lệnh:
 ```terminal
 git clone https://github.com/hieubdn/Flutter-Package-State-Manager.git
